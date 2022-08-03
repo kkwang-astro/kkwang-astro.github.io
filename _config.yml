@@ -19,7 +19,7 @@ url    : "https://kkwang-astro.github.io" # the base hostname & protocol for you
 
 title      : Universe adventure
 email      : kkwang.astro@gmail.com #this is also the email contact forms will go to
-description: "New"
+description: "This is kx's personal webpage."
 author     : Kaixiang Wang
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
