@@ -1,1 +1,1 @@
-# kkwang-astro-github.io
+# kkwang-astro.github.io
