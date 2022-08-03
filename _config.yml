@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://kkwang-astro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "https://kkwang-astro.github.io" # the subpath of your site, e.g. /blog
 
-title      : Universe adventure
+title      : Kaixiang Wang's Homepage
 email      : kkwang.astro@gmail.com #this is also the email contact forms will go to
 description: "This is kx's personal webpage."
 author     : Kaixiang Wang
