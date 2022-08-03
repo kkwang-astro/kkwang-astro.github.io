@@ -13,18 +13,19 @@ en: &DEFAULT_EN
   nav:
     - title: "Research"
       section: Research
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Photography"
+      url: https://kkwang-astro.github.io/compact-gallery.html
+      section: Photography
+    - title: "Ski"
+      section: Ski
+    - title: "Outdoor"
+      section: Outdoor
     - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
+      section: About
     - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      section: Contact
+#    - title: "Theme Source"
+#      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
